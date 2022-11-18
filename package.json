@@ -1,0 +1,13 @@
+{
+  "name": "copa-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Raissu/copa-backend.git",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "fastify": "^4.10.0"
+  }
+}
