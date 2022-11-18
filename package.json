@@ -5,6 +5,7 @@
   "repository": "https://github.com/Raissu/copa-backend.git",
   "license": "MIT",
   "devDependencies": {
+    "tsx": "^3.12.1",
     "typescript": "^4.9.3"
   },
   "dependencies": {
